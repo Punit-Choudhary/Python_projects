@@ -43,8 +43,8 @@ if __name__ == "__main__":
         
         print(f"""
         # ****************************************************** #
-        #               IP Lookup                                #
-        #   Developed with \3 by Punit-Choudhary                 
+        #                       IP Lookup                        #
+        #          Developed with \3 by Punit-Choudhary           #       
         # ****************************************************** #
         #                                                        
         #  IP address : {ip}                                     
