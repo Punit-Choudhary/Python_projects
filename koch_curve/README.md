@@ -33,6 +33,6 @@ Decorate your snowflake how you like it. You can colour it, cut it out, draw mor
 
 
 ## Reference Links:
-http://www.geeksforgeeks.org/koch-curve-koch-snowflake/
-https://www.wikihow.com/Draw-the-Koch-Snowflake
+http://www.geeksforgeeks.org/koch-curve-koch-snowflake/ <br>
+https://www.wikihow.com/Draw-the-Koch-Snowflake <br>
 https://en.wikipedia.org/wiki/Koch_snowflake
